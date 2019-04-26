@@ -9,8 +9,9 @@ let GCP_FILEPATH = '/bestpractices-docs';
 /* ALL DOCS WILL BE CATEGORIZED UNDER THE CATEGORY YOU INPUT.  */
 let DOCS_CATEGORY = '';
 
-/* SPECIFY THE EXCEL DOC TO PARSE HERE */
-let path = (__dirname + '/assets/MEIT.xlsx');
+/* SPECIFY THE EXCEL DOC TO PARSE HERE. ie. 'MEIT.xlsx' */
+let fileNameWithExtention = '';
+let path = (__dirname + `/assets/${fileNameWithExtention}`);
 
 /* Parsing the excel file. An excel is a 'workbook' and it can have multile 'sheets'. */
 let workbook = xlsx.readFile(path);
@@ -94,8 +95,12 @@ function determineGCPFilePath(fileName, section) {
 
 /* --- --- */
 
+/* --- WHERE THE FUNCTION GETS CALLED --- */
+
+let arrayOfParsedDocs = createDocumentsArray(firstRow, firstColumn, []);
+
 let docsObject = {
-  docs: createDocumentsArray(firstRow, firstColumn, [])
+  docs: arrayOfParsedDocs
 }
 
 jsonfile.writeFile('data.json', docsObject, { spaces: 2 })
