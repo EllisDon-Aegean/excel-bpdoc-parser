@@ -1,0 +1,15 @@
+{
+  "name": "parsedocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "xlsx": "^0.14.2"
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "docs": [
+    {
+      "tags": {
+        "type": "Mandatory",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/applicable guidelines/00002.G.M-R03-2013.12.19-Building Systems QA-QC Guideline.pdf",
+        "document_link": "https://drive.google.com/file/d/1XmcXSLWh-axWm-vezxdbhutsQ2nRYoul/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Applicable Guidelines",
+      "name": "Building Systems QA/QC Guideline",
+      "description": "Guideline to provide Building Systems Coordinators & Managers with a general framework and approach to delivering and implementing an appropriate QA/QC program for their specific project."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Planning",
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/applicable guidelines/00001.G.PS-R01-2015.11.20-Commissioning Guidline.docx",
+        "document_link": "https://drive.google.com/file/d/1AXNlBSel0eXlE6e6_NqaZVpAhX2DECA7/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Applicable Guidelines",
+      "name": "Commissioning Guideline",
+      "description": "Guideline to ensure proper procurement, installation, and verification of project Building Systems. (To be coordinated w/ project specific specifications and contractual requirements.)"
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning"
+        ],
+        "gcp_filepath": "/bestpractices-docs/applicable guidelines/00015.G.PS-R01-2019.03.07-Value Engineering and Cost Saving Guideline.docx",
+        "document_link": "https://drive.google.com/file/d/1yPQikNTqKagxPAjPDd-Vyq0nIZQH-OTz/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Applicable Guidelines",
+      "name": "Value Engineering and Cost Saving Guideline",
+      "description": "Guideline to help determine if there are any value engineering and/or cost saving opportunities that can benefit the pursuit or project. These are often called design alternatives and value cost approaches during the pursuit stage."
+    },
+    {
+      "tags": {
+        "type": "Mandatory",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/applicable guidelines/00016.G.M-R00-2019.03.01-Guideline to Building Systems Scheduling Input.pdf",
+        "document_link": "https://drive.google.com/file/d/1nqUNoQK0PJpxBF-feUnZYnjP8dSBL2tJ/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Applicable Guidelines",
+      "name": "Guideline to Building Systems Scheduling Input",
+      "description": "A guideline to assist Building Systems Estimators, Coordinators, and Managers in preparing and providing meaningful input to overall project schedule development. Focuses on ICI projects."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/applicable guidelines/00017.G.PS-R00-2019.03.01-Conveying Equipment Guideline.docx",
+        "document_link": "https://drive.google.com/file/d/1-0O4blFjbfl9ppI4S34e6IJk2h1If-Yj/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Applicable Guidelines",
+      "name": "Conveying Equipment Guideline",
+      "description": "Guideline to Conveying Equipment and their Building Systems and Structural Interfaces. Be sure to coordinate with local AHJs and code requirements."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning"
+        ],
+        "gcp_filepath": "/bestpractices-docs/contract forms + schedules/00011.CDS.PS-R00-2019.02.04-Schedule A VDC Attachment.docx",
+        "document_link": "https://drive.google.com/file/d/1Hlwx0AoSDBcX4Gr_YgRyZaRyjvgWbOml/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Contract Forms + Schedules",
+      "name": "BIM/VDC Appendix to the Schedule A",
+      "description": "Wording that can be used in, or appended to, a subcontractor's Schedule A to detail their requirements to participate in BIM/VDC. Wording must be tailored to Project Specific requirements. Examples can be found in the Knowledge Base."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Planning",
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00003.FT.PS-R00-2015.10.08-Commissioning Plan [E26].pdf",
+        "document_link": "https://drive.google.com/drive/folders/1xy6fkdxYSelk4Pby1aAQ11wBaXR6Kdpc"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Commissioning Plan [E26]",
+      "description": "Sample Commissioning Plan for smaller projects without a Third Party Commissioning Authority."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00004.FT.PS-R00-2012.04.05-Subcontractor QC Plan Template.doc",
+        "document_link": "https://drive.google.com/file/d/1_M5CBP4Ff1NYv5X2CKB6x8TNIAIj8NOX/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Subcontractor QC Plan ",
+      "description": "Sample QC Plan for Subcontractors that do not already have their own company specific plan."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00005.FT.PS-R00-2018.07.25-Occupancy Permit Checklist [N9].xlsx",
+        "document_link": "https://drive.google.com/file/d/1R4yeMdrjBkw-IkfbBcOyiyZuoa01xB_w/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Occupancy Permit Checklist [N09]",
+      "description": "Identify and track completion of requirements for occupancy. Needs to be coordinated with Project Specific requirements. Additional examples can be found in the knowledge base."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00006.FT.PS-R00-2016.09.26-Close-Out Submission Matrix.xlsx",
+        "document_link": "https://drive.google.com/file/d/11EmZaUyFiOuR0SgKvroAE7iRjGoncSf8/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Close-Out Submission Matrix",
+      "description": "Matrix to assist in planning project specific close-out submissions. Including, O&M manuals, training requirements, warranty requirements, as-builts, spare parts list, etc. "
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00007.FT.PS-R00-2013.11.19-Building Systems Deficiency Checklist [C20-E38].xlsx",
+        "document_link": "https://drive.google.com/file/d/1l9cTiqAE8cs95QEgHn2pUSOBmMCbHxpY/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Building Systems Deficiency Checklist [C20-E38]",
+      "description": "Template for Building System specific deficiency tracking. Use to be coordinated with overall project deficiency tracking methodology and Fieldwire integration. "
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00008.FT.PS-R00-2018.06.06-Building Systems Responsibility Matrix [E05].xlsx",
+        "document_link": "https://drive.google.com/file/d/1F-s3fmQN7NuT6sD4E96Lj07xMouGwKKr/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Building Systems Responsibility Matrix [E05]",
+      "description": "Matrix to assist in the coordination of scope between subcontractors. Can be used as an Appendix to the Schedule A if signed off before hand.  Other examples exist in the knowledge base."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00009.FT.PS-R00-2018.07.19-Electronic Hardware Responsibility Matrix.xlsx",
+        "document_link": "https://drive.google.com/file/d/1UZpMe03azxnHEvzhEFA5u66CdRFiwOi1/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Electronic Hardware Responsibility Matrix [E05]",
+      "description": "Matrix to assist in the coordination of scope between doors, hardware, security, and electrical subcontractors. Can be used as an Appendix to the Schedule A if signed off before hand. "
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00018.FT.PS-R00-2019.02.28-Elevator Cx Completion Checklist.xlsx",
+        "document_link": "https://drive.google.com/file/d/1hKN78qlnLpqCE7kmSx-vwzjezRSk94hX/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Elevator Cx Completion Checklist",
+      "description": "Typical checklist to track Cx status for elevators, including Building Systems and Structural interfaces. Be sure to coordinate with local AHJs and code requirements."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00010.FT.PS-R00-2018.03.06-ICAT Responsibility Matrix.xlsx",
+        "document_link": "https://drive.google.com/file/d/1mc1zXfK4fYWV0n_qugxYn_elHDumyTRb/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "ICAT Responsibility Matrix",
+      "description": "Matrix to assist in the coordination of scope between ICAT subcontractors. Can be used as an Appendix to the Schedule A if signed off before hand. "
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00012.FT.PS-R00-2017.04.25-VDC Level of Detail Matrix.xlsx",
+        "document_link": "https://drive.google.com/file/d/1zvx3FbaS_uhgkZmv7A5Xw4GNc3Z6gh99/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "VDC Level of Detail Matrix",
+      "description": "Matrix to coordinate and determine the Level of Detail (\"LOD\") required for various building elements."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00013.FT.PS-R00-2014.02.26-Building Systems QA-QC Guideline Program Elements.xlsx",
+        "document_link": "https://drive.google.com/file/d/18muLs6Dhq4sFbFoptU5ILkCkoteZVBAf/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Building Systems QA-QC Guideline Program Elements",
+      "description": "List of Building Systems QA-QC Program Elements. To be using in conjunction with the Building Systems QA-QC Guideline."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00014.FT.PS-R00-2012.10.05-Close-Out Owner-FM Training Matrix [C36].docx",
+        "document_link": "https://drive.google.com/file/d/1rWJ1iwzrV0lCGfQjwl1ntD_hajBavYJ3/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Close-Out Owner-FM Training Matrix",
+      "description": "Sample Training Matrix for planning, documenting, and scheduling Owner-FM training as part of Close-Out"
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Planning",
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00020FT.PS-R00-2016.09.26-Planned Submittal Log.xlsx",
+        "document_link": "https://drive.google.com/file/d/1-FddpZk4Ujtw34HWBmfWnZ0YZbJulSBz/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Planned Submittal Log",
+      "description": "Submissions module within Gatethree should be used. However, in the event a separate list is required, this template can be used."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00019.FT.PS-R05-2019.03.01-Building Systems Scheduling Input Checklist.xls",
+        "document_link": "https://drive.google.com/file/d/107_u5MhnuEMr76LSYPNxG0TXBuiLYNmA/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Building Systems Scheduling Input Checklist",
+      "description": "A guideline to assist Building Systems Estimators, Coordinators, and Managers in preparing and providing meaningful input to overall project schedule development. Focuses on ICI projects."
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00021.FT.PS-R00-2017.01.03-Above Ceiling Inpsection Checklist - Air Distribution.xlsx",
+        "document_link": "https://drive.google.com/file/d/11ca0p-jQc4o9InToRB6DckCujrRUMxT6/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Above Ceiling Inspection Checklist - Air Distribution",
+      "description": "Checklist to track and sign-off installation before boarding or ceiling tile installation"
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00022.FT.PS-R00-2017.01.04-Above Ceiling Inspection Checklist - Electrical.xlsx",
+        "document_link": "https://drive.google.com/file/d/100rIciYa3DNmBEK_qW-pABjAfbBuMXYi/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Above Ceiling Inspection Checklist - Electrical",
+      "description": "Checklist to track and sign-off installation before boarding or ceiling tile installation"
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00023.FT.PS-R00-2017.01.05-Above Ceiling Inspection Checklist - Mechanical.xlsx",
+        "document_link": "https://drive.google.com/file/d/1hIXw812JOgAso-alF_U5Vg5zN16FltMK/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Above Ceiling Inspection Checklist - Mechanical",
+      "description": "Checklist to track and sign-off installation before boarding or ceiling tile installation"
+    },
+    {
+      "tags": {
+        "type": "Project Specific",
+        "phase": [
+          "Project Execution"
+        ],
+        "gcp_filepath": "/bestpractices-docs/forms + templates/00024.FT.PS-R00-2017.01.06-Duct Shaft Inspection Checklist - Air Distribution.xlsx",
+        "document_link": "https://drive.google.com/file/d/1DB5YBFfMw89AE1SYBocVS88FuHKZP9Hl/view"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Forms + Templates",
+      "name": "Duct Shaft Inspection Checklist - Air Distribution",
+      "description": "Checklist to track and sign-off installation before boarding or shaft wall installation."
+    },
+    {
+      "tags": {
+        "type": "Other",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "",
+        "document_link": "https://drive.google.com/drive/folders/1ca_-2diXRn_fvrxT0Mdvm8nA_dgfzkPe?usp=sharing"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "Training",
+      "name": "Legacy Building Systems Training & Presentation Archive",
+      "description": "Link to access the Legacy Building Systems Training & Presentation Archive within the Legacy Knowledge Base."
+    },
+    {
+      "tags": {
+        "type": "Other",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "",
+        "document_link": "https://drive.google.com/drive/folders/165LPnOXsLkIjn2hKbnS4j_8ZNbzkUcCq?usp=sharing"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "External Links",
+      "name": "Legacy Building Systems Knowledge Base",
+      "description": "Link to access the Legacy Building Systems Knowledge Base which includes archived program elements and sample documents. "
+    },
+    {
+      "tags": {
+        "type": "Other",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "",
+        "document_link": "https://www.ashrae.org"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "External Links",
+      "name": "ASHRAE - American Society of Heating, Refrigeration, and Air Conditioning Engineers",
+      "description": "ASHRAE, founded in 1894, is a global society advancing human well-being through sustainable technology for the built environment. The Society and its members focus on building systems, energy efficiency, indoor air quality, refrigeration and sustainability within the industry. "
+    },
+    {
+      "tags": {
+        "type": "Other",
+        "phase": [
+          "Project Pursuit",
+          "Project Planning",
+          "Project Execution",
+          "Warranty / Facility Management"
+        ],
+        "gcp_filepath": "",
+        "document_link": "https://www.bcxa.org/"
+      },
+      "categories": [
+        "MEIT"
+      ],
+      "section": "External Links",
+      "name": "BCxA - Building Commissioning Association",
+      "description": "The Building Commissioning Association (BCxA) is an international non-profit organization that serves as the recognized authority and resource on commissioning."
+    }
+  ]
+}
